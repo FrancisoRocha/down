@@ -1,61 +1,35 @@
 <!--TITLES-->
-# Hola 
-## Hi
-### How are you?
-#### I'm francisco
-##### 21 yaers 
-###### and you?
+# Hi mi name is francisco :v:
 
-<!--ITALIC-->
-This is a *italic* text
-<!--STRONG-->
-This is a **strong** text
-<!--STRIKETHROUGH-->
-Este es un ~~texto~~ tachado
+## I'm 21 years, I'm from mexico city, i'm learnin Development Web and English
 
-<!--listas desordenada UL-->
+![Francisco](io.jpg)
+>About me
 
-* Hola
-    * I'm francisco
-* How are you?
-* Nice to meet you
+* I like play video games
+* I like Soccer
+* I like to listening to music
+* I like going out to the parks
+* I enjoy sunsets and time whit friends
 
-<!--Listas ordenadas OL-->
+# My Objectives
 
-1. Dinero
-    
-    1. lavado
+>I am currently learning to program and I am also improving my level of English. I am passionate about the world of technology and I am excited to explore different programming languages and frameworks. My goal is to become a competent developer and contribute to interesting projects.
 
-2. paco
-    
-    
-    2. hello
+>During my learning journey, I am working on personal projects to apply the concepts I have learned and improve my problem-solving skills. I am open to collaborating with other developers and learning from their experience.
 
-3. lalala
+>In addition to programming, I am also spending time improving my English, as it is a widely used language in the technology field. I am practicing reading technical documentation in English and participating in online communities to improve my fluency.
+
+>I am always excited to learn new technologies and take on interesting challenges. If you have any suggestions, projects or just want to chat about programming, don't hesitate to contact me. I'm looking forward to continuing to grow as a developer and improve my English skills!
+
 
 <!--Links-->
-[Youtube.com](https://www.youtube.com)
-
-[YouTube.com](https://www.youtube.com "Videos")
-
-<!--CITAS-->
->This is a quote
+[My Telegram](https://t.me/Pancho_lee)
 
 <!--Codigo-->
 `console.log ("Hola mundo")`
 
 ```JavaScript
-function saludar(nombre) {
-  console.log("¡Hola, " + nombre + "!");
-}
-saludar("Juan");
+const nombre = prompt("Ingresa tu nombre:");
+console.log("Hello, " + nombre + ", Nice to meet you");
 ```
-<!--TABLAS-->
-| tabala   | holaaa |
-| -------- |------- |
-| colum 1  | colum2 |
-| colum 4  | colum4 |
-<!--IMAGENES-->
-![Tomorro](logo.jpg)
-
-- [ ]Hola
